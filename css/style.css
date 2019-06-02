@@ -52,6 +52,9 @@ h2::after {
   margin: 0 auto;
   background-color: #479da6;
 }
+input, textarea {
+  outline: none; 
+}
 
 hr {
   border: 1px solid #e6f2f9;
