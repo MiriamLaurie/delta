@@ -315,6 +315,7 @@ h2 {
 }
 .order-textarea {
   width: 40%;
+  padding-top: 12px;
   padding-left: 10px;
   border-radius: 30px;
   border: 2px solid #d3e6ea;
